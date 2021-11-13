@@ -14,3 +14,10 @@ Parei aos 19 minutos do vídeo
 ### Segundo commit
 
 Parei aos 25:15 
+
+### Terceiro commit
+
+Completei o vídeo 
+Percebi que há cortes em algumas partes e alterações que não são mostradas na codificação
+Além disso há classes declaradas no html que não foram definidas no css
+Ao expandir as dimensões a formatação se perde
