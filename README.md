@@ -21,3 +21,7 @@ Completei o vídeo
 Percebi que há cortes em algumas partes e alterações que não são mostradas na codificação
 Além disso há classes declaradas no html que não foram definidas no css
 Ao expandir as dimensões a formatação se perde
+
+### Quarto commit
+
+Corrigido o erro de responsividade
